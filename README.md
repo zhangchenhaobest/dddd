@@ -1,3 +1,29 @@
+# dddd
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A batch information-gathering and supply-chain vulnerability scanner that streamlines red-team workflows, with bulk target pulls from Hunter and Fofa.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+批量信息收集与供应链漏洞探测工具，优化红队工作流，支持从 Hunter、Fofa 批量拉取目标。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # 工具简介
 
 ![](https://socialify.git.ci/SleepingBag945/dddd/image?description=1&font=Inter&forks=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
